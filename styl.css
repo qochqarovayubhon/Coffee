@@ -17,6 +17,8 @@
   box-sizing: border-box;
   color: white;
   text-decoration: none;
+  margin-left: 10px;
+  margin-right:20px ;
 }
 
 .container {
@@ -33,7 +35,6 @@
   background-size: cover;
   background-image: url("../4-dars/img/image.png");
 }
-
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -554,4 +555,5 @@ top: 4446px;
 }
 .footer{
   margin-top: 300px;
+  width: 100wh;
 }
